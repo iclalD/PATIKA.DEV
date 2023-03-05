@@ -1,0 +1,133 @@
+.img {
+    width: 351px;
+    height: 113px;
+    margin: auto;
+}
+
+.container {
+    margin: auto;
+    height: 144px;
+}
+
+.writings {
+    width: 90%;
+    height: 144px;
+    margin: auto;
+    /* background-color: black; */
+}
+
+.top-content {
+    width: 831,89px;
+    height: 70px;
+    background-color: #EEEEEE;
+}
+
+.bottom-contents {
+    width: 831,89px;
+    height: 76px;
+}
+
+.bottom-content-1 {
+    float: left;
+    background-color: #7EE5DA;
+    height: 79px;
+    width: 37%;
+    margin: 2px 2px 0 0;
+}
+
+.bottom-content-2 {
+    float: left;
+    background-color: #70CCC2;
+    height: 79px;
+    width: 19.5%;
+    margin-top: 2px;
+}
+
+.bottom-content-3 {
+    float: left;
+    background-color: #62B3AA;
+    height: 79px;
+    width: 42.9%;
+    margin: 2px 1px 0 2px;
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+    padding: 0px;
+    margin: 0;
+}
+
+#top-button {
+    width: 37%;
+    height: 29%;
+    /* border-color: black; */
+    margin: auto;
+    border-width: 20px;
+    background-color: white;
+    border-radius: 3px;
+}
+
+#button-block {
+    margin: 1px auto;
+    height: 22px;
+    width: 30%;
+    border-radius: 2px;
+    /* background-color: rgb(175, 73, 73); */
+}
+
+
+#lower-button-1 {
+    float: left;
+    width: 40%;
+    margin: 2px;
+    border-color: black;
+    background-color: #EEEEEE;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+#lower-button-2 {
+    float: left;
+    width: 45%;
+    margin: 2px;
+    border-color: black;
+    background-color: #EEEEEE;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+.last-button {
+    width: 46%;
+    border-radius: 2px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 22%;
+    background-color: white;
+    margin: auto;
+}
+
+.last-block {
+    width: 35%;
+    /* border-radius: 2px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid; */
+    height: 25%;
+    margin: auto;
+    margin-top: 2px;
+}
+
+.subscribe-button {
+    border-color: black;
+    border-width: 1px;
+    width: 59%;
+    border-style: solid;
+    height: 100%;
+    background-color: #EEEEEE;
+    border-radius: 3px;
+    margin-right: 6px;
+}
